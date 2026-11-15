@@ -787,6 +787,23 @@ h1 span {
 .button-dark:hover {
   background:var(--rust)
 }
+.k24-widget {
+  margin-top:18px;
+}
+.k24-widget a {
+  display:inline-block;
+  max-width:100%;
+  border:0;
+  border-radius:4px;
+  line-height:0;
+}
+.k24-widget img {
+  display:block;
+  max-width:100%;
+  height:auto;
+  border:1px solid #e0e3e9;
+  border-radius:4px;
+}
 .reviews-side {
   font-size:7px;
   line-height:1.8;
